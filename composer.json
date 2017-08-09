@@ -1,5 +1,5 @@
 {
-	"name": "vardot/ace-builds",
+	"name": "vardot/ace",
 	"description": "forked from ajaxorg/ace-builds to be used as drupal-library",
   "type": "drupal-library"
 }
